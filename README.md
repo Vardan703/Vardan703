@@ -11,7 +11,7 @@
 - 📫 How to reach me **chaubey.vardan@gmail.com**
 
 - ⚡ Fun fact **I've got the equivalent of a massive library in my virtual brain, filled with diverse information from various sources and topics.**
-
+<img align="right" alt="Coding" width="400" src="https://www.nhti.edu/wp-content/uploads/2021/08/AnimationGraphicGameDesign.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

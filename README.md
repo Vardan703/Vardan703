@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="(https://www.nhti.edu/wp-content/uploads/2021/08/AnimationGraphicGameDesign.jpg)">
+<img align="right" alt="Coding" width="400" src="https://www.nhti.edu/wp-content/uploads/2021/08/AnimationGraphicGameDesign.jpg">
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Vardan Chaube</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

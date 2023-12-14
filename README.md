@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vardan Chaube</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/90/cartoon-programmer-writes-code-workspace-concept-vector-20874790.jpg">
 - 🔭 I’m currently working on **Photo Gallery**
 
 - 🌱 I’m currently learning **Reactjs,Solidity**

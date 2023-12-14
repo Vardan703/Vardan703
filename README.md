@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStc5XJTCwjmDULoF_I6E4jUtKBRrtjw0ohEA&usqp=CAU">
+<img align="center" alt="Coding" width="1100" src="https://r4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-98166d48d0b05c7890bc81be8892b48a.jpg">
 <h1 align="center">Hi 👋, I'm Vardan Chaube</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

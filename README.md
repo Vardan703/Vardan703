@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/90/cartoon-programmer-writes-code-workspace-concept-vector-20874790.jpg">
-- 🔭 I’m currently working on **Photo Gallery**
+- 🔭 I’m currently working on Photo Gallery
 
 - 🌱 I’m currently learning **Reactjs,Solidity**
 

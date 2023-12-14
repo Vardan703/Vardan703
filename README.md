@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1100" src="https://i.gifer.com/GYny.gif">
+<img align="center" alt="Coding" width="1100" src="https://i.gifer.com/78KF.mp4">
 <h1 align="center">Hi 👋, I'm Vardan Chaube</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

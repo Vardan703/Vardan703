@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fstock-video-footage-animated-d-computer-programming-script-code-as-technology-internet-background-full-hd-footage-video49426928&psig=AOvVaw0449CD1bL_NOkNMAHddzfb&ust=1702643909350000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDd0oD5joMDFQAAAAAdAAAAABAi](https://www.nhti.edu/wp-content/uploads/2021/08/AnimationGraphicGameDesign.jpg)">
+<img align="right" alt="Coding" width="400" src="(https://www.nhti.edu/wp-content/uploads/2021/08/AnimationGraphicGameDesign.jpg)">
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Vardan Chaube</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
